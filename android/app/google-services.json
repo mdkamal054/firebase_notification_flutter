@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "459318687912",
+    "project_id": "radioappflutter",
+    "storage_bucket": "radioappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459318687912:android:56bfb73df7a3a568f52a9d",
+        "android_client_info": {
+          "package_name": "com.diginerds.firebase_notification_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459318687912-rd0rldop07k1unml2o00afbmuf40p7pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDOJvhzWk3DXLXK3J7Gzak4QzLGiKhfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459318687912-rd0rldop07k1unml2o00afbmuf40p7pv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459318687912-olco1ovgjs359d3et43b33b1q1iso0ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diginerds.radioapp.radioapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459318687912:android:070c9ee66ed10f2af52a9d",
+        "android_client_info": {
+          "package_name": "com.diginerds.radioapp.radioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459318687912-rd0rldop07k1unml2o00afbmuf40p7pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDOJvhzWk3DXLXK3J7Gzak4QzLGiKhfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459318687912-rd0rldop07k1unml2o00afbmuf40p7pv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459318687912-olco1ovgjs359d3et43b33b1q1iso0ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diginerds.radioapp.radioapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
